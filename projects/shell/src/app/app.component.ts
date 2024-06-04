@@ -35,13 +35,15 @@ export class AppComponent {
     this.router.navigate(['/colaborator']);
   }
 
-  navigateToHolidays() {
-    this.router.navigate(['/Holiday']);
+  navigateToTraining() {
+    this.router.navigate(['/Training']);
   }
 
-  navigateToAssociations() {
+  navigateToHoliday() {
     this.router.navigate(['/association']);
   }
+
+
 
   isSidebarOpen = false;
 

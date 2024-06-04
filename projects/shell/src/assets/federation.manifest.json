@@ -1,8 +1,11 @@
 
 {
+
+
   "colaborator": "http://localhost:4221/remoteEntry.json",
-	"Holiday": "http://localhost:4204/remoteEntry.json",
 	"association": "http://localhost:4203/remoteEntry.json",
-	"projeto": "http://localhost:4201/remoteEntry.json"
+	"projeto": "http://localhost:4201/remoteEntry.json",
+  "Training": "http://localhost:4204/remoteEntry.json"
+
 
 }
